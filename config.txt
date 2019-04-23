@@ -1,6 +1,6 @@
-token=NTEwOTA5NzM2NjU3MzU0NzUz.DsjTMg.-8qwrp6f3n2wXn-6jSW2r_EYEyU
+token=NTEwOTA5NzM2NjU3MzU0NzUz.XL8Edw.fKiWia6Wi-fCAyDz74VfN-P4mJM
 owner=498132773878628353
-prefix=7
+prefix=6
 game=Crazy World
 stayinchannel=true
 songinstatus=true
